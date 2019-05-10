@@ -44,8 +44,8 @@ class Monitor():
 
 		nickname = '监控程序'
 		# 发送者的信息
-		sender = '499646194@163.com'
-		password = 's503377k'
+		sender = 'XXXX@163.com'
+		password = 'xxxx'
 		# 接收方的邮箱
 		receiver = '499646194@qq.com'
 		msg = MIMEText(content, 'html', 'utf-8')
